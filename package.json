@@ -1,0 +1,15 @@
+{
+  "name": "betterphotos",
+  "version": "1.0.0",
+  "description": "Simple website layout that focuses on rating and reviewing photos of your own or of other users.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "sass --watch --no-source-map main.scss style.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.77.6"
+  }
+}
