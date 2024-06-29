@@ -358,7 +358,7 @@ a {
 
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 272px 60px 90px 64px 30px 288px;
+    grid-template-rows: 272px 60px 90px 64px 30px 1fr;
 
     &__img-wrapper {
         position: relative;
@@ -465,4 +465,47 @@ a {
     background-color: #E7EDEE;
     grid-column: 2 / 3;
     grid-row: 3 / 4;
+    display: flex;
+    align-items: center;
+
+}
+
+.step {
+    text-align: center;
+    padding: 0 20px;
+
+    &__icon {
+        font-size: 20px;
+        height: 50px;
+        width: 50px;
+        border-radius: 50%;
+        background-color: white;
+        margin-bottom: 17px;
+        line-height: 50px;
+
+        &--1 {
+            color: #67B941;
+        }
+
+        &--2 {
+            color: #38B049;
+        }
+
+        &--3 {
+            color: #1EA97B;
+        }
+    }
+
+    &__text {
+        color: $color-grey-dark;
+        font-size: 12px;
+        line-height: 1.8;
+    }
+}
+
+.second-heading {
+    color: #161616;
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 6px;
 }
