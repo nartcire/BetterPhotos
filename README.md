@@ -1,6 +1,8 @@
 # BetterPhotos
 Simple website layout that focuses on rating and reviewing photos of your own or of other users.
 
+![alt text](https://github.com/nartcire/markdown-here/raw/master/BetterPhotos.png)
+
 ## Motivation
 
 This project is a simple HTML/CSS Project to learn more about HTML and SCSS along with other CSS principles like utility components in CSS!
