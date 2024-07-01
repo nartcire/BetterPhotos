@@ -1,7 +1,7 @@
 # BetterPhotos
 Simple website layout that focuses on rating and reviewing photos of your own or of other users.
 
-![alt text](https://github.com/nartcire/markdown-here/raw/master/BetterPhotos.png)
+<img width="893" alt="BetterPhotos" src="https://github.com/nartcire/BetterPhotos/assets/67806241/afd98af8-6d3c-4a9e-a417-eac54b532596">
 
 ## Motivation
 
